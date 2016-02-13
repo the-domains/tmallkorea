@@ -1,7 +1,7 @@
 name: tmallkorea
 favicon: null
-layout_spectrum: 0.13151090499013662
-typography_spectrum: 0.0014426540583372116
+layout_spectrum: 0.4988
+typography_spectrum: 0.47607
 title: 티몰코리아 - 중국채널마케팅 전문기업
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#2b2b2b'
-    - '#dcdcdc'
-    - '#686868'
-    - '#909090'
+    - '#fefefe'
+    - '#d20104'
+    - '#ff4d4d'
+    - '#677c9b'
+    - '#353439'
   brandStrength: 0.5
   lightness: 0.15032481914386153
   saturation: 0.7624002022203058

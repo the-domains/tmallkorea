@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 브랜드 미션 정하는법
+    id: 450689e9-9bfa-485d-addd-5a4e1f280123
+    type: content
 favicon: null
 title: (주)우림하이텍
 description: 융복합 6차산업 홈페이짖제작 전문기업

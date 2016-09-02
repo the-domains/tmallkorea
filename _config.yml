@@ -19,7 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: tmallkorea
+author:
+  name: maxdm
+  email: maxdm8404@daum.net
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f0909ce-7da7-4297-8e7a-8a7c4ad9d571.png
+name: woolimhitek
 cta:
   domain: null
   bucket: null

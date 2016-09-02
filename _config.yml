@@ -1,20 +1,4 @@
-name: tmallkorea
-favicon: null
-layout_spectrum: 0.4988
 typography_spectrum: 0.47607
-title: 티몰코리아 - 중국채널마케팅 전문기업
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefefe'
@@ -26,4 +10,20 @@ color:
   lightness: 0.15032481914386153
   saturation: 0.7624002022203058
   rhythmicContrast: 0.19687025086022913
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4988
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: tmallkorea
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: (주)우림하이텍
 purpose: []
